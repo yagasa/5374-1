@@ -3,7 +3,8 @@ label,sublabel,description,styles,bgcolor
 不燃（不燃物）,,,img/moyasanai02.svg,#ea3b13
 不燃（ガラスびん）,,,img/moyasanai02.svg,#ea3b13
 不燃（有害物）,,,img/moyasanai02.svg,#ea3b13
-資源（古紙類）,缶類,,,img/shigen02.svg,#77ae1f
+資源（古紙類）,,,img/shigen02.svg,#77ae1f
+資源（缶類）,,,img/shigen02.svg,#77ae1f
 資源（ペットボトル）,,,img/shigen02.svg,#77ae1f
 資源（廃食用油）,,,img/shigen02.svg,#77ae1f
 資源（衣類・古布）,,,img/shigen02.svg,#77ae1f
