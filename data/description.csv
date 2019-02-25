@@ -1,12 +1,12 @@
 label,sublabel,description,styles,bgcolor
 燃やすごみ,,,img/moyasanai02.svg,#733b96
-不燃物,,,img/shigen02.svg,#77ae1f
+不燃物,,,img/shigen02.svg,#733b96
 ガラスびん,,,img/moyasu02.svg,#ea3b13
 有害物,,,img/bin02.svg,#2dc7aa
-古紙類,缶類,,,img/moyasanai02.svg,#733b96
-ペットボトル,,,img/moyasanai02.svg,#733b96
-廃食用油,,,img/moyasanai02.svg,#733b96
-衣類・古布,,,img/moyasanai02.svg,#733b96
+古紙類,缶類,,,img/moyasanai02.svg,#77ae1f
+ペットボトル,,,img/moyasanai02.svg,#77ae1f
+廃食用油,,,img/moyasanai02.svg,#77ae1f
+衣類・古布,,,img/moyasanai02.svg,#77ae1f
 容器包装プラスチック,,,img/moyasanai02.svg,#733b96
 粗大ごみ,,,img/moyasanai02.svg,#733b96
 排出禁止物,,,img/moyasanai02.svg,#733b96
