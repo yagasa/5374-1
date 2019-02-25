@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
 燃やすごみ,,,img/moyasu02.svg,#733b96
-不燃物,,,img/moyasanai02.svg,#733b96
+不燃物,,,img/moyasanai02.svg,#ea3b13
 ガラスびん,,,img/moyasanai02.svg,#ea3b13
-有害物,,,img/moyasanai02.svg,#2dc7aa
+有害物,,,img/moyasanai02.svg,#ea3b13
 古紙類,缶類,,,img/shigen02.svg,#77ae1f
 ペットボトル,,,img/shigen02.svg,#77ae1f
 廃食用油,,,img/shigen02.svg,#77ae1f
